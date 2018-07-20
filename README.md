@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+hi abijith here. i am new to git hub and that is why i am here.
